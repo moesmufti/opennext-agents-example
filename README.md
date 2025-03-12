@@ -76,17 +76,3 @@ To build the application:
 ```bash
 pnpm build
 ```
-
-### Deploy
-
-To deploy to Cloudflare Pages:
-
-```bash
-pnpm deploy
-```
-
-## Learn More
-
-- [Next.js Documentation](https://nextjs.org/docs)
-- [Cloudflare Pages Documentation](https://developers.cloudflare.com/pages)
-- [Cloudflare AI Documentation](https://developers.cloudflare.com/workers-ai)
